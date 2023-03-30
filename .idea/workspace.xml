@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5193da5d-7d0d-4e22-b299-5827fcd44f82" name="Default Changelist" comment="" />
+    <list default="true" id="5193da5d-7d0d-4e22-b299-5827fcd44f82" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/commandlinetools/Laravel_7_2_21__11_28_AM.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/commandlinetools/schemas/frameworkDescriptionVersion1.1.4.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/css/body.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/css/body.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/CSF.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/MBS.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/MBS.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/NEWCSF.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/OMAC.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/OMAC.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/bardiani.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/bardiani.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/goglio.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/goglio.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/logo-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/slider_images/flow1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/slider_images/flow2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/slider_images/industry4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,9 +26,7 @@
   </component>
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -20,6 +35,12 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -121,20 +142,25 @@
   <component name="ProjectId" id="1ba8TH6Dl8kcUQoxEVFY1HthoXz" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-  </component>
-  <component name="RunManager">
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="PHPUnit.phpunit.xml">
+    <configuration type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://127.0.0.1:8001">
+      <method v="2" />
+    </configuration>
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner scope="XML" />
       <method v="2" />
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -150,28 +176,33 @@
       <workItem from="1588954452277" duration="12430000" />
       <workItem from="1589068729544" duration="9146000" />
       <workItem from="1589090741109" duration="2544000" />
+      <workItem from="1589188913960" duration="152000" />
+      <workItem from="1589189180909" duration="602000" />
+      <workItem from="1589189893024" duration="10217000" />
+      <workItem from="1589207358252" duration="2463000" />
+      <workItem from="1589275025721" duration="2363000" />
+      <workItem from="1591549634371" duration="212000" />
+      <workItem from="1625214479125" duration="6156000" />
+      <workItem from="1625419528030" duration="9000" />
+      <workItem from="1625569932384" duration="1422000" />
+      <workItem from="1655622333550" duration="2321000" />
+      <workItem from="1655635658307" duration="349000" />
+      <workItem from="1655971291803" duration="3138000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="389" y="154" width="624" height="526" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1589068755636">
-      <screen x="67" y="27" width="1299" height="741" />
-    </state>
-    <state x="389" y="154" width="624" height="526" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/67.27.1299.741@67.27.1299.741" timestamp="1589068755636" />
-    <state x="502" y="343" width="399" height="149" key="NewPhpFileDialog" timestamp="1588859112809">
-      <screen x="67" y="27" width="1299" height="741" />
-    </state>
-    <state x="502" y="343" width="399" height="149" key="NewPhpFileDialog/67.27.1299.741@67.27.1299.741" timestamp="1588859112809" />
-    <state x="362" y="245" key="com.intellij.ide.util.TipDialog" timestamp="1589090989618">
-      <screen x="67" y="27" width="1299" height="741" />
-    </state>
-    <state x="362" y="245" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1589090989618" />
-    <state x="67" y="53" width="662" height="715" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588864224667">
-      <screen x="67" y="27" width="1299" height="741" />
-    </state>
-    <state x="67" y="53" width="662" height="715" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1299.741@67.27.1299.741" timestamp="1588864224667" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
